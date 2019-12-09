@@ -69,7 +69,8 @@ defmodule Confex.Mixfile do
       maintainers: ["Nebo #15"],
       licenses: ["LISENSE.md"],
       links: %{github: "https://github.com/Nebo15/confex"},
-      files: ~w(lib LICENSE.md mix.exs README.md)
+      files: ~w(lib LICENSE.md mix.exs README.md),
+      organization: "hippware"
     ]
   end
 end
